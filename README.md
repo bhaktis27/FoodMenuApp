@@ -1,8 +1,13 @@
-# React + Vite
+🍽️ Food Menu App
+A React-based food menu app featuring categorized cuisines like Indian, Russian, and more. Built with React + Vite for fast performance.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Categorized food menu
+Search functionality
+Responsive UI
+Fast and lightweight
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+React + Vite
+React Router (if applicable)
+Tailwind CSS / Styled Components (optional)
